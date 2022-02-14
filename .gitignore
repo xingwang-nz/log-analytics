@@ -24,6 +24,8 @@ tmp/
 .attach*
 coverage-error.log
 
+.DS_Store
+
 ### VSCode ###
 .vscode/
 
