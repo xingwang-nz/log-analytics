@@ -1,0 +1,30 @@
+### Maven ###
+target/
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.recommenders
+*.launch
+.project
+.classpath
+.apt_generated
+
+### Intellij ###
+.idea/
+*.iml
+*.ipr
+.attach*
+coverage-error.log
+
+### VSCode ###
+.vscode/
+
+
